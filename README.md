@@ -8,7 +8,7 @@
 
 Sau khi kích hoạt xong ta gia hạn kích hoạt vĩnh viến.
 
-- Tạo tác vụ gia hạn kích hoạt vĩnh viến:
+- Tạo tác vụ gia hạn kích hoạt vĩnh viễn:
 
 ![image](https://user-images.githubusercontent.com/103977676/200756492-50b60776-f99b-4e12-8352-090c14850910.png)
 
