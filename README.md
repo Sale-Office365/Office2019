@@ -1,7 +1,5 @@
 # OFFICE 2019 #
 
-# OFFICE 2016 #
-
 ## 1. AIO TOOLS V3.1.3 ##
 
 - Download AIO Tools V3.13 [tại đây](https://1drv.ms/u/s!AkwSBX-xWiVhgReolwU8a9uuJrz7?e=AyNym8), giải nén, rồi run file Activate AIO Tools v3.1.3 by Savio.cmd bằng quyền Run Administrator
